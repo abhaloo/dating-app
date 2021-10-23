@@ -54,4 +54,3 @@ C:\Users\abhal\Desktop\Projects\DatingApp\API\bin\Debug\net5.0\runtimes\win-x64\
 C:\Users\abhal\Desktop\Projects\DatingApp\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\abhal\Desktop\Projects\DatingApp\API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\abhal\Desktop\Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\abhal\Desktop\Projects\DatingApp\API\obj\Debug\net5.0\API.csproj.CopyComplete
