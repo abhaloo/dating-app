@@ -11,7 +11,7 @@ namespace API.Entities
         public int Id { get; set; }
         
         //user name
-        public int Username { get; set; }
+        public string Username { get; set; }
     
     }
 }
